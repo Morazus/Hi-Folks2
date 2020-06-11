@@ -1,0 +1,30 @@
+body {
+	border: 20px solid #000088;
+	padding: 20px;
+	max-width: auto;
+	width: 90%;
+	margin: 0 auto;
+    background-color: ivory;
+    font-family: source sans Pro;
+}
+
+header {
+    color: mediumblue;
+    font-size: xx-large; 
+    font-weight: bolder;
+     
+}
+
+h2 {
+	text-align: left;
+	font-size: 44px 
+
+}
+
+
+
+img {
+	width: 20%;
+	float: left;
+	margin: 2%
+}
